@@ -15,6 +15,9 @@
 
 I am a Programming Engineering student (high school level), currently halfway through my studies. I specialize in front-end and back-end development with the goal of becoming a full-stack developer. I work as a freelance software developer, combining technical knowledge with creativity and innovation.
 
+
+
+
 ## My Skills Include
 <h4> Lenguages </h4>
 <span> 
@@ -25,28 +28,31 @@ I am a Programming Engineering student (high school level), currently halfway th
 
 </span>
 
-##
 
-🚀 What I Do                                                                          
 
-  - Front-end and back-end software development
-  - Creation of technology projects supported by AI
-  - Video editing and post-production (Filmmaker)
-  - Personal brand management in digital marketing
- 
-🌱 Currently Learning
+<p align="left">
+   
+## 🚀  What I Do <br> 
+- Front-end and back-end software development<br>
+- Creation of technology projects supported by AI<br>
+- Video editing and post-production (Filmmaker)<br>
+- Personal brand management in digital marketing<br>
+<br>
 
-  - Python (in the process of mastering it)
-  - Java, JavaScript, and SQL (up next)
-  - Best practices in open-source collaboration
+## 🌱 **Currently Learning**<br>
+- Python (in the process of mastering it)<br>
+- Java, JavaScript, and SQL (up next)<br>
+- Best practices in open-source collaboration
+</p>
 
 
 </span>
 
- GitHub Stats:
+<div align="center">
+ <h1> GitHub Stats: <h1>
 
-[![Milton Reyes Github Stats](https://github-readme-stats.vercel.app/api?username=mreyescode&show_icons=true&theme=transparent&hide=prs)](=dark&=false&include_all_commits=false&count_private=false<br)
-
+ [![Milton Reyes Github Stats](https://github-readme-stats.vercel.app/api?username=mreyescode&show_icons=true&theme=graywhite&hide=prs)](=dark&s=false&include_all_commits=false&count_private=true<br)
+</div>
 
 🎯 Highlighted Projects
 
@@ -60,7 +66,7 @@ I am a Programming Engineering student (high school level), currently halfway th
 
 📫 Contact: isreyes.code@gmail.com
 
-   <div align="right">
+   <div align="center">
 <table>
   <tr>
     <th>Contacts</th>
