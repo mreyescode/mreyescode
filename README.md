@@ -15,18 +15,38 @@
 
 I am a Programming Engineering student (high school level), currently halfway through my studies. I specialize in front-end and back-end development with the goal of becoming a full-stack developer. I work as a freelance software developer, combining technical knowledge with creativity and innovation.
 
+## My Skills Include
+<h4> Lenguages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+</span>
+
+##
+
 🚀 What I Do                                                                          
 
   - Front-end and back-end software development
   - Creation of technology projects supported by AI
   - Video editing and post-production (Filmmaker)
   - Personal brand management in digital marketing
-
+ 
 🌱 Currently Learning
 
   - Python (in the process of mastering it)
   - Java, JavaScript, and SQL (up next)
   - Best practices in open-source collaboration
+
+
+</span>
+
+ GitHub Stats:
+
+[![Milton Reyes Github Stats](https://github-readme-stats.vercel.app/api?username=mreyescode&show_icons=true&theme=transparent&hide=prs)](=dark&=false&include_all_commits=false&count_private=false<br)
+
 
 🎯 Highlighted Projects
 
@@ -40,23 +60,6 @@ I am a Programming Engineering student (high school level), currently halfway th
 
 📫 Contact: isreyes.code@gmail.com
 
-## My Skills Include
-<h4> Lenguages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-</span>
-
-
-
-</span>
-
-
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
    <div align="right">
 <table>
   <tr>
@@ -68,11 +71,18 @@ I am a Programming Engineering student (high school level), currently halfway th
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
          <a href="https://instagram.com/anii_akhil" target="blank"> 
             <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="30">
+            <a href="https://www.youtube.com/channel/UCpBGxQbi-wahJ7wRaG80E6w">
+               <img src="https://img.icons8.com/color/48/000000/youtube-play.png" height:="35" width="35">
+</a>
 </p>
       </a>
     </td>
   </tr>
 </table>
 
+</samp>
 
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+</p>
  
