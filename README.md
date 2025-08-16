@@ -53,15 +53,26 @@ I am a Programming Engineering student (high school level), currently halfway th
 
 </span>
 
-GitHub Stats:
+
+## GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+   <div align="right">
+<table>
+  <tr>
+    <th>Contacts</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+         <a href="https://instagram.com/anii_akhil" target="blank"> 
+            <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="30">
+</p>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
-
-<div align="right">
-
-|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
-| ----------|
-| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
-
-</div>
-
+ 
