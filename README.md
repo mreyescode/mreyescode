@@ -75,7 +75,7 @@ I am a Programming Engineering student (high school level), currently halfway th
     <td>
       <a href="https://www.linkedin.com/in/milton-reyes-03422a314/">
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-         <a href="https://instagram.com/anii_akhil" target="blank"> 
+         <a href="https://www.instagram.com/rmmilton_?igsh=MmlzbmZqcGl4MHY%3D&utm_source=qr" target="blank"> 
             <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="30">
             <a href="https://youtube.com/@reyescode?si=wDGK7Cy_s8L2D8Oo">
                <img src="https://img.icons8.com/color/48/000000/youtube-play.png" height:="35" width="35">
