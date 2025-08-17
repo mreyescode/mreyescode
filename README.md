@@ -79,7 +79,7 @@ I am a Programming Engineering student (high school level), currently halfway th
             <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="30">
             <a href="https://youtube.com/@reyescode?si=wDGK7Cy_s8L2D8Oo">
                <img src="https://img.icons8.com/color/48/000000/youtube-play.png" height:="35" width="35">
-                <a href="isreyes.code@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height:="35" width="35" >
+                <a href="mailto:isreyes.code@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height:="35" width="35" >
 </a>
 </p>
       </a>
